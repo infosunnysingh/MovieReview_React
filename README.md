@@ -1,3 +1,5 @@
+![image](https://github.com/infosunnysingh/Movie-Review-App-ReactJS/assets/79641266/3036c086-6e6b-4839-83ec-e642dc05bc44)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
